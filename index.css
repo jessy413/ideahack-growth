@@ -1,0 +1,27 @@
+h1 {
+    color: black;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 100px;
+    font-family: Copperplate, Fantasy;
+  }
+
+.plant-status{
+    display: flex;
+    justify-content: space-around;
+}
+.plant {
+    margin-left: 475px;
+    margin-right: 450px;
+}
+
+.water {
+    width: 20%;
+}
+
+.sunlight{
+    width: 20%;
+
+}
+  
