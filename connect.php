@@ -1,8 +1,8 @@
 <?php
 $user = 'root';
 $password = 'root';
-$db = 'goals';
-$host = 'localhost';
+$db = 'plant_status';
+$host = '127.0.0.1';
 $port = 8889;
 
 $link = mysqli_init();
